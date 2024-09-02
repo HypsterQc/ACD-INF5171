@@ -1,5 +1,5 @@
 # Sigle // Cours : 
-INF5171 // Architecture des ordinateurs 
+INF5171 // Programmation concurrente et parallèle	
 
 ## Date : 
 (Debut - Fin)
